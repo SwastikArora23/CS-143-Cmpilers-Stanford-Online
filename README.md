@@ -1,7 +1,3 @@
-![Compilers Course Progress Graph](/download.png)
-
-
-
 # CS143-Compilers-Stanford
 
 This repo contains solutions to 4 assignments of the Compilers course available on [Coursera](https://www.coursera.org/course/compilers) as well as [Stanford Online](https://lagunita.stanford.edu/courses/Engineering/Compilers/Fall2014/about). NOTE: only the files that required modification have been included.
